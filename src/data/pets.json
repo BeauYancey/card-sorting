@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Bella",
+    "age": 2,
+    "weight": 12.5,
+    "adoptionFee": 75,
+    "species": "Dog",
+    "breed": "Beagle",
+    "photo": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg"
+  },
+  {
+    "name": "Max",
+    "age": 4,
+    "weight": 22.0,
+    "adoptionFee": 100,
+    "species": "Dog",
+    "breed": "Border Collie",
+    "photo": "https://usserviceanimals.org/blog/wp-content/uploads/2021/08/Border-Collie-laying-grass.jpg"
+  },
+  {
+    "name": "Luna",
+    "age": 1,
+    "weight": 9.0,
+    "adoptionFee": 80,
+    "species": "Cat",
+    "breed": "Siamese",
+    "photo": "https://cdn.prod.website-files.com/659c0b0024c127bdbe890959/673afd25892be17ee3ea1c52_41.jpg"
+  },
+  {
+    "name": "Charlie",
+    "age": 6,
+    "weight": 30.5,
+    "adoptionFee": 60,
+    "species": "Dog",
+    "breed": "Labrador Retriever",
+    "photo": "https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1670938235.1927571/fun-facts-about-labrador-retrievers.jpg"
+  },
+  {
+    "name": "Daisy",
+    "age": 3,
+    "weight": 11.0,
+    "adoptionFee": 65,
+    "species": "Cat",
+    "breed": "Maine Coon",
+    "photo": "https://cattime.com/wp-content/uploads/sites/14/2019/04/GettyImages-1189893683-e1688363589288.jpg?w=1024"
+  },
+  {
+    "name": "Rocky",
+    "age": 5,
+    "weight": 45.0,
+    "adoptionFee": 120,
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "photo": "https://worldanimalfoundation.org/wp-content/uploads/2024/02/german-shepherd-2-3.jpg"
+  },
+  {
+    "name": "Milo",
+    "age": 2,
+    "weight": 10.0,
+    "adoptionFee": 50,
+    "species": "Cat",
+    "breed": "Bengal",
+    "photo": "https://pet-health-content-media.chewy.com/wp-content/uploads/2025/04/16162032/202503bec-bengal-cat-1-1024x548.jpg"
+  },
+  {
+    "name": "Sadie",
+    "age": 7,
+    "weight": 14.2,
+    "adoptionFee": 40,
+    "species": "Dog",
+    "breed": "Pug",
+    "photo": "https://www.borrowmydoggy.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4ij0poqn%2Fproduction%2Faa4114b1716da8e061c61fa80dfadc9397d70f8b-800x600.jpg&w=1080&q=80"
+  },
+  {
+    "name": "Oliver",
+    "age": 1,
+    "weight": 8.5,
+    "adoptionFee": 90,
+    "species": "Cat",
+    "breed": "Russian Blue",
+    "photo": "https://rawznaturalpetfood.com/wp-content/uploads/2021/05/russian-blue-cats.jpg"
+  },
+  {
+    "name": "Buddy",
+    "age": 3,
+    "weight": 26.0,
+    "adoptionFee": 85,
+    "species": "Dog",
+    "breed": "Boxer",
+    "photo": "https://www.petassure.com/petassure/file-streams/page/b4x0Jmxdp4YUDAZg00jv83tips-for-training-your-pet-boxer.jpg.jpg"
+  },
+  {
+    "name": "Coco",
+    "age": 4,
+    "weight": 13.8,
+    "adoptionFee": 70,
+    "species": "Cat",
+    "breed": "Persian",
+    "photo": "https://cdn.prod.website-files.com/659c0b0024c127bdbe890959/673a2eb3c1d361675009f9b7_31.jpg"
+  },
+  {
+    "name": "Zeus",
+    "age": 6,
+    "weight": 38.0,
+    "adoptionFee": 95,
+    "species": "Dog",
+    "breed": "Husky",
+    "photo": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg"
+  },
+  {
+    "name": "Chloe",
+    "age": 2,
+    "weight": 7.0,
+    "adoptionFee": 55,
+    "species": "Cat",
+    "breed": "Abyssinian",
+    "photo": "https://cdn.shopify.com/s/files/1/0568/0450/7691/files/ABYSSINIAN-CAT-1_600x600.jpg?v=1713881706"
+  },
+  {
+    "name": "Duke",
+    "age": 5,
+    "weight": 50.0,
+    "adoptionFee": 110,
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "photo": "https://www.dailypaws.com/thmb/DQfQglzyKWlVSlsDwKPprF2iMSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/golden-retriever-177213599-2000-a30830f4d2b24635a5d01b3c5c64b9ef.jpg"
+  },
+  {
+    "name": "Mittens",
+    "age": 3,
+    "weight": 9.5,
+    "adoptionFee": 60,
+    "species": "Cat",
+    "breed": "Tabby",
+    "photo": "https://articles.hepper.com/wp-content/uploads/2023/04/close-up-tabby-cat-lying-on-the-couch_Erik-Jan-Leusink_Unsplash.jpg"
+  },
+  {
+    "name": "Rex",
+    "age": 8,
+    "weight": 40.0,
+    "adoptionFee": 35,
+    "species": "Dog",
+    "breed": "Rottweiler",
+    "photo": "https://dogtime.com/wp-content/uploads/sites/12/2023/11/GettyImages-1198147566.jpg?resize=1200,630"
+  }
+]
