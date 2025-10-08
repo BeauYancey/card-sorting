@@ -12,13 +12,13 @@ function App() {
   ];
   const sizeSections = [
     {label: "Small", fn: (pet: Pet) => pet.weight < 10}, 
-    {label: "Medium", fn: (pet: Pet) => pet.weight >= 10 && pet.weight <= 40}, 
-    {label: "Large", fn: (pet: Pet) => pet.weight > 40}
+    {label: "Medium", fn: (pet: Pet) => pet.weight >= 10 && pet.weight <= 50}, 
+    {label: "Large", fn: (pet: Pet) => pet.weight > 50}
   ];
   const ageSections = [
     {label: "Baby", fn: (pet: Pet) => pet.age < 3}, 
-    {label: "Young", fn: (pet: Pet) => pet.age >= 3 && pet.age <= 10}, 
-    {label: "Senior", fn: (pet: Pet) => pet.age > 10}
+    {label: "Young", fn: (pet: Pet) => pet.age >= 3 && pet.age <= 9}, 
+    {label: "Senior", fn: (pet: Pet) => pet.age > 9}
   ];
 
   return (

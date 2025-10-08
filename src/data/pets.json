@@ -10,8 +10,8 @@
   },
   {
     "name": "Luna",
-    "age": 2,
-    "weight": 12,
+    "age": 12,
+    "weight": 6,
     "adoptionFee": 100,
     "species": "Cat",
     "breed": "Siamese Tabby",
@@ -38,7 +38,7 @@
   {
     "name": "Daisy",
     "age": 1,
-    "weight": 9,
+    "weight": 10,
     "adoptionFee": 80,
     "species": "Cat",
     "breed": "Persian",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Max",
-    "age": 6,
+    "age": 10,
     "weight": 80,
     "adoptionFee": 200,
     "species": "Dog",
@@ -65,7 +65,7 @@
   {
     "name": "Bella",
     "age": 2,
-    "weight": 10,
+    "weight": 12,
     "adoptionFee": 90,
     "species": "Cat",
     "breed": "Orange Tabby",
@@ -74,7 +74,7 @@
   {
     "name": "Oliver",
     "age": 1,
-    "weight": 2.5,
+    "weight": 0.2,
     "adoptionFee": 40,
     "species": "Bird",
     "breed": "Zebra Finch",
@@ -83,7 +83,7 @@
   {
     "name": "Rocky",
     "age": 7,
-    "weight": 70,
+    "weight": 48,
     "adoptionFee": 120,
     "species": "Dog",
     "breed": "Australian Shepherd",
@@ -91,8 +91,8 @@
   },
   {
     "name": "Chloe",
-    "age": 4,
-    "weight": 8,
+    "age": 14,
+    "weight": 7,
     "adoptionFee": 85,
     "species": "Cat",
     "breed": "Persian Tabby",
@@ -110,7 +110,7 @@
   {
     "name": "Sadie",
     "age": 2,
-    "weight": 68,
+    "weight": 12,
     "adoptionFee": 170,
     "species": "Dog",
     "breed": "Miniature Poodle",
@@ -128,7 +128,7 @@
   {
     "name": "Jack",
     "age": 1,
-    "weight": 1.8,
+    "weight": 8,
     "adoptionFee": 45,
     "species": "Bird",
     "breed": "Muscovy Duck",
@@ -136,8 +136,8 @@
   },
   {
     "name": "Zara",
-    "age": 6,
-    "weight": 62,
+    "age": 11,
+    "weight": 55,
     "adoptionFee": 155,
     "species": "Dog",
     "breed": "English Retriever",
@@ -146,7 +146,7 @@
   {
     "name": "Nala",
     "age": 3,
-    "weight": 10,
+    "weight": 9,
     "adoptionFee": 100,
     "species": "Cat",
     "breed": "Persian",
@@ -155,7 +155,7 @@
   {
     "name": "Pepper",
     "age": 2,
-    "weight": 2.3,
+    "weight": 1,
     "adoptionFee": 60,
     "species": "Bird",
     "breed": "Green-Cheeked Parrot",
@@ -164,7 +164,7 @@
   {
     "name": "Harley",
     "age": 4,
-    "weight": 75,
+    "weight": 68,
     "adoptionFee": 190,
     "species": "Dog",
     "breed": "Golden Retriever",
@@ -173,7 +173,7 @@
   {
     "name": "Willow",
     "age": 5,
-    "weight": 9,
+    "weight": 6,
     "adoptionFee": 110,
     "species": "Cat",
     "breed": "Siamese Tabby",
