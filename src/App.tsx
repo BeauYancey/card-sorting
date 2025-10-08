@@ -1,11 +1,26 @@
 import { Tabs, Title } from "@mantine/core"
 import pets from "./data/pets.json"
 import type { Pet } from "./types/Pet";
-import BySpeciesTab from "./tabs/BySpeciesTab";
-import BySizeTab from "./tabs/BySizeTab";
-import ByAgeTab from "./tabs/ByAgeTab";
+import TabContent from "./components/Tab";
 
 function App() {
+
+  const speciesSections = [
+    {label: "Dogs", fn: (pet: Pet) => pet.species === "Dog"}, 
+    {label: "Cats", fn: (pet: Pet) => pet.species === "Cat"}, 
+    {label: "Birds", fn: (pet: Pet) => pet.species === "Bird"}
+  ];
+  const sizeSections = [
+    {label: "Small", fn: (pet: Pet) => pet.weight < 10}, 
+    {label: "Medium", fn: (pet: Pet) => pet.weight >= 10 && pet.weight <= 40}, 
+    {label: "Large", fn: (pet: Pet) => pet.weight > 40}
+  ];
+  const ageSections = [
+    {label: "Baby", fn: (pet: Pet) => pet.age < 3}, 
+    {label: "Young", fn: (pet: Pet) => pet.age >= 3 && pet.age <= 10}, 
+    {label: "Senior", fn: (pet: Pet) => pet.age > 10}
+  ];
+
   return (
     <main>
       <Title order={1} mb="sm">Adopt a Pet</Title>
@@ -17,15 +32,15 @@ function App() {
         </Tabs.List>
 
         <Tabs.Panel value="species" pt="xs">
-          <BySpeciesTab pets={pets as Pet[]} />
+          <TabContent pets={pets as Pet[]} sections={speciesSections} />
         </Tabs.Panel>
 
         <Tabs.Panel value="size" pt="xs">
-          <BySizeTab pets={pets as Pet[]} />
+          <TabContent pets={pets as Pet[]} sections={sizeSections} />
         </Tabs.Panel>
 
         <Tabs.Panel value="age" pt="xs">
-          <ByAgeTab pets={pets as Pet[]} />
+          <TabContent pets={pets as Pet[]} sections={ageSections} />
         </Tabs.Panel>
       </Tabs>
     </main>

@@ -2,13 +2,12 @@ import { Stack, Title } from "@mantine/core";
 import type { Pet } from "../types/Pet";
 import PetGrid from "../components/PetGrid";
 
-interface BySizeTabProps {
+interface TabContentProps {
   pets: Pet[];
+  sections: {label: string, fn: (pet: Pet) => boolean}[];
 }
 
-const BySizeTab: React.FC<BySizeTabProps> = ({pets}) => {
-  const sections = [{label: "Small", fn: (pet: Pet) => pet.weight < 10}, {label: "Medium", fn: (pet: Pet) => pet.weight >= 10 && pet.weight <= 40}, {label: "Large", fn: (pet: Pet) => pet.weight > 40}];
-
+const TabContent: React.FC<TabContentProps> = ({pets, sections}) => {
   return (
     <Stack gap="xl">
       {sections.map(sec => (
@@ -21,4 +20,4 @@ const BySizeTab: React.FC<BySizeTabProps> = ({pets}) => {
   );
 }
 
-export default BySizeTab
+export default TabContent
