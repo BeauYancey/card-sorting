@@ -12,13 +12,8 @@ function App() {
   const [sortedPets, setSortedPets] = useState<Pet[]>(pets as Pet[]);
 
   useEffect(() => {
-    console.log(sortBy);
-  }, [sortBy]);
-
-  useEffect(() => {
     switch (sortBy) {
       case "Age":
-        console.log("Sorting by age");
         setSortedPets(prev => [...prev].sort((a, b) => sortByAge(a, b, descending)));
         break;
       case "Size":
