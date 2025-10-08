@@ -1,146 +1,182 @@
 [
   {
-    "name": "Bella",
-    "age": 2,
-    "weight": 12.5,
-    "adoptionFee": 75,
+    "name": "Buddy",
+    "age": 3,
+    "weight": 65,
+    "adoptionFee": 150,
     "species": "Dog",
-    "breed": "Beagle",
-    "photo": "https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg"
-  },
-  {
-    "name": "Max",
-    "age": 4,
-    "weight": 22.0,
-    "adoptionFee": 100,
-    "species": "Dog",
-    "breed": "Border Collie",
-    "photo": "https://usserviceanimals.org/blog/wp-content/uploads/2021/08/Border-Collie-laying-grass.jpg"
+    "breed": "Golden Retriever",
+    "photo": "https://bestforpet.co.nz/wp-content/uploads/2025/07/Golden_Retriever.jpg"
   },
   {
     "name": "Luna",
-    "age": 1,
-    "weight": 9.0,
-    "adoptionFee": 80,
+    "age": 2,
+    "weight": 12,
+    "adoptionFee": 100,
     "species": "Cat",
-    "breed": "Siamese",
-    "photo": "https://cdn.prod.website-files.com/659c0b0024c127bdbe890959/673afd25892be17ee3ea1c52_41.jpg"
+    "breed": "Siamese Tabby",
+    "photo": "https://www.hepper.com/wp-content/uploads/2021/06/siamese-lynx-point_Seattle-Cat-Photo_Shutterstock.jpg"
   },
   {
     "name": "Charlie",
-    "age": 6,
-    "weight": 30.5,
-    "adoptionFee": 60,
+    "age": 4,
+    "weight": 72,
+    "adoptionFee": 180,
     "species": "Dog",
     "breed": "Labrador Retriever",
     "photo": "https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1670938235.1927571/fun-facts-about-labrador-retrievers.jpg"
   },
   {
-    "name": "Daisy",
-    "age": 3,
-    "weight": 11.0,
-    "adoptionFee": 65,
-    "species": "Cat",
-    "breed": "Maine Coon",
-    "photo": "https://cattime.com/wp-content/uploads/sites/14/2019/04/GettyImages-1189893683-e1688363589288.jpg?w=1024"
+    "name": "Milo",
+    "age": 5,
+    "weight": 58,
+    "adoptionFee": 160,
+    "species": "Dog",
+    "breed": "Standard Poodle",
+    "photo": "https://image.petmd.com/files/inline-images/standard-poodle.jpg?VersionId=1Pjx5emdAPxmImIlwCR0tX3HXxxm_NhT"
   },
   {
-    "name": "Rocky",
-    "age": 5,
-    "weight": 45.0,
-    "adoptionFee": 120,
+    "name": "Daisy",
+    "age": 1,
+    "weight": 9,
+    "adoptionFee": 80,
+    "species": "Cat",
+    "breed": "Persian",
+    "photo": "https://articles.hepper.com/wp-content/uploads/2021/08/white-persian-cat-walking-on-grass_ANURAK-PONGPATIMET_Shutterstock.jpg"
+  },
+  {
+    "name": "Max",
+    "age": 6,
+    "weight": 80,
+    "adoptionFee": 200,
     "species": "Dog",
     "breed": "German Shepherd",
     "photo": "https://worldanimalfoundation.org/wp-content/uploads/2024/02/german-shepherd-2-3.jpg"
   },
   {
-    "name": "Milo",
-    "age": 2,
-    "weight": 10.0,
+    "name": "Coco",
+    "age": 3,
+    "weight": 1.2,
     "adoptionFee": 50,
-    "species": "Cat",
-    "breed": "Bengal",
-    "photo": "https://pet-health-content-media.chewy.com/wp-content/uploads/2025/04/16162032/202503bec-bengal-cat-1-1024x548.jpg"
+    "species": "Bird",
+    "breed": "African Grey Parrot",
+    "photo": "https://www.marylandzoo.org/wp-content/uploads/2017/10/african_grey_web-1024x683.jpg"
   },
   {
-    "name": "Sadie",
-    "age": 7,
-    "weight": 14.2,
-    "adoptionFee": 40,
-    "species": "Dog",
-    "breed": "Pug",
-    "photo": "https://www.borrowmydoggy.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4ij0poqn%2Fproduction%2Faa4114b1716da8e061c61fa80dfadc9397d70f8b-800x600.jpg&w=1080&q=80"
+    "name": "Bella",
+    "age": 2,
+    "weight": 10,
+    "adoptionFee": 90,
+    "species": "Cat",
+    "breed": "Orange Tabby",
+    "photo": "https://images.litter-robot.com/media/wysiwyg/orange-tabby-mackerel.jpeg"
   },
   {
     "name": "Oliver",
     "age": 1,
-    "weight": 8.5,
-    "adoptionFee": 90,
-    "species": "Cat",
-    "breed": "Russian Blue",
-    "photo": "https://rawznaturalpetfood.com/wp-content/uploads/2021/05/russian-blue-cats.jpg"
+    "weight": 2.5,
+    "adoptionFee": 40,
+    "species": "Bird",
+    "breed": "Zebra Finch",
+    "photo": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/610836135/1200"
   },
   {
-    "name": "Buddy",
-    "age": 3,
-    "weight": 26.0,
-    "adoptionFee": 85,
+    "name": "Rocky",
+    "age": 7,
+    "weight": 70,
+    "adoptionFee": 120,
     "species": "Dog",
-    "breed": "Boxer",
-    "photo": "https://www.petassure.com/petassure/file-streams/page/b4x0Jmxdp4YUDAZg00jv83tips-for-training-your-pet-boxer.jpg.jpg"
-  },
-  {
-    "name": "Coco",
-    "age": 4,
-    "weight": 13.8,
-    "adoptionFee": 70,
-    "species": "Cat",
-    "breed": "Persian",
-    "photo": "https://cdn.prod.website-files.com/659c0b0024c127bdbe890959/673a2eb3c1d361675009f9b7_31.jpg"
-  },
-  {
-    "name": "Zeus",
-    "age": 6,
-    "weight": 38.0,
-    "adoptionFee": 95,
-    "species": "Dog",
-    "breed": "Husky",
-    "photo": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg"
+    "breed": "Australian Shepherd",
+    "photo": "https://www.animalbehaviorcollege.com/wp-content/uploads/2015/06/australian-shepherd.jpg"
   },
   {
     "name": "Chloe",
-    "age": 2,
-    "weight": 7.0,
-    "adoptionFee": 55,
+    "age": 4,
+    "weight": 8,
+    "adoptionFee": 85,
     "species": "Cat",
-    "breed": "Abyssinian",
-    "photo": "https://cdn.shopify.com/s/files/1/0568/0450/7691/files/ABYSSINIAN-CAT-1_600x600.jpg?v=1713881706"
+    "breed": "Persian Tabby",
+    "photo": "https://cdn.omlet.com/images/cache/512/341/persian-silver-tabby-cat-close-up.jpg"
   },
   {
-    "name": "Duke",
+    "name": "Zeus",
     "age": 5,
-    "weight": 50.0,
-    "adoptionFee": 110,
+    "weight": 3,
+    "adoptionFee": 55,
+    "species": "Bird",
+    "breed": "Blue-Winged Parrot",
+    "photo": "https://parrots.org/wp-content/uploads/1990/02/Blue-winged-Parrot4-1024x753.jpg"
+  },
+  {
+    "name": "Sadie",
+    "age": 2,
+    "weight": 68,
+    "adoptionFee": 170,
+    "species": "Dog",
+    "breed": "Miniature Poodle",
+    "photo": "https://irp.cdn-website.com/47dc7f6e/dms3rep/multi/1DC1567B-0E61-4F79-8AA3-2396BA1BC5DE-1bcd7ed1.jpeg"
+  },
+  {
+    "name": "Simba",
+    "age": 3,
+    "weight": 11,
+    "adoptionFee": 95,
+    "species": "Cat",
+    "breed": "Siamese",
+    "photo": "https://www.catster.com/wp-content/uploads/2023/11/Siamese-Cat_Andreas-LischkaPixabay-800x533.jpg"
+  },
+  {
+    "name": "Jack",
+    "age": 1,
+    "weight": 1.8,
+    "adoptionFee": 45,
+    "species": "Bird",
+    "breed": "Muscovy Duck",
+    "photo": "https://www.allaboutbirds.org/guide/assets/og/75711631-1200px.jpg"
+  },
+  {
+    "name": "Zara",
+    "age": 6,
+    "weight": 62,
+    "adoptionFee": 155,
+    "species": "Dog",
+    "breed": "English Retriever",
+    "photo": "https://whitegoldenretriever.com/wp-content/uploads/2024/01/Yanna_Nov22_Purple_1.24.24-06412.jpg"
+  },
+  {
+    "name": "Nala",
+    "age": 3,
+    "weight": 10,
+    "adoptionFee": 100,
+    "species": "Cat",
+    "breed": "Persian",
+    "photo": "https://moderncat.com/wp-content/uploads/2025/03/ss_2510990453_Akifyeva-S-1-940x640.jpg"
+  },
+  {
+    "name": "Pepper",
+    "age": 2,
+    "weight": 2.3,
+    "adoptionFee": 60,
+    "species": "Bird",
+    "breed": "Green-Cheeked Parrot",
+    "photo": "https://a-z-animals.com/media/2011/10/shutterstock_1305355711.jpg"
+  },
+  {
+    "name": "Harley",
+    "age": 4,
+    "weight": 75,
+    "adoptionFee": 190,
     "species": "Dog",
     "breed": "Golden Retriever",
-    "photo": "https://www.dailypaws.com/thmb/DQfQglzyKWlVSlsDwKPprF2iMSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/golden-retriever-177213599-2000-a30830f4d2b24635a5d01b3c5c64b9ef.jpg"
+    "photo": "https://thepetlabco.com/learn/_next/image?url=https%3A%2F%2Fblog.thepetlabco.com%2Fwp-content%2Fuploads%2F2024%2F06%2Fshutterstock_2272555627-1.jpg&w=3840&q=75"
   },
   {
-    "name": "Mittens",
-    "age": 3,
-    "weight": 9.5,
-    "adoptionFee": 60,
+    "name": "Willow",
+    "age": 5,
+    "weight": 9,
+    "adoptionFee": 110,
     "species": "Cat",
-    "breed": "Tabby",
-    "photo": "https://articles.hepper.com/wp-content/uploads/2023/04/close-up-tabby-cat-lying-on-the-couch_Erik-Jan-Leusink_Unsplash.jpg"
-  },
-  {
-    "name": "Rex",
-    "age": 8,
-    "weight": 40.0,
-    "adoptionFee": 35,
-    "species": "Dog",
-    "breed": "Rottweiler",
-    "photo": "https://dogtime.com/wp-content/uploads/sites/12/2023/11/GettyImages-1198147566.jpg?resize=1200,630"
+    "breed": "Siamese Tabby",
+    "photo": "https://cdn.hswstatic.com/gif/shutterstock-1785164999.jpg"
   }
 ]
