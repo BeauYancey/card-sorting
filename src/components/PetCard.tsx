@@ -32,7 +32,7 @@ const PetCard: React.FC<CardProps> = ({pet}) => {
           />
       </Card.Section>
 
-      <Title order={2} my="xs">{pet.name}</Title>
+      <Title order={3} my="xs">{pet.name}</Title>
       <Stack gap="0.25rem">
         <Data 
           label="Age" 
