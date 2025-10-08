@@ -3,7 +3,7 @@ export interface Pet {
   age: number; // in years
   weight: number; // in pounds
   adoptionFee: number; // in dollars
-  species: string;
+  species: "Dog" | "Cat" | "Bird" | "Other";
   breed: string;
   photo: string;
 }
