@@ -45,7 +45,7 @@ const PetCard: React.FC<CardProps> = ({pet}) => {
           leftSection={<ScalesIcon size={16}/>} 
         />
         <Data 
-          label="Adotion Fee" 
+          label="Adoption Fee" 
           value={`$${pet.adoptionFee}`} 
           leftSection={<CreditCardIcon size={16}/>} 
         />
