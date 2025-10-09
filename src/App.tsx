@@ -24,7 +24,7 @@ function App() {
   return (
     <main>
       <Title order={1} mb="sm">Adopt a Pet</Title>
-      <Tabs mb="md">
+      <Tabs mb="md" defaultValue="species">
         <Tabs.List mb="md">
           <Tabs.Tab value="species"><Title order={4}>By Species</Title></Tabs.Tab>
           <Tabs.Tab value="size"><Title order={4}>By Size</Title></Tabs.Tab>
